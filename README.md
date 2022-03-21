@@ -2,6 +2,8 @@
 
 VSCode extension to preview JSON
 
+https://marketplace.visualstudio.com/items?itemName=lusingander.vscode-preview-json
+
 ## About
 
 Previews JSON string in formatted for the selected range.
