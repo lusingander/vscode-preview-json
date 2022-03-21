@@ -6,4 +6,4 @@ VSCode extension to preview JSON
 
 Previews JSON string in formatted for the selected range.
 
-<img src="https://raw.githubusercontent.com/lusingander/vscode-preview-json/master/images/screenshot.gif">
+<img src="https://raw.githubusercontent.com/lusingander/vscode-preview-json/master/screenshot.gif">
